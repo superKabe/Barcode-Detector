@@ -1,0 +1,9 @@
+numpy
+scikit-image
+matplotlib
+pillow
+scipy
+colorspacious
+typing
+scikit-learn
+opencv-python-headless
